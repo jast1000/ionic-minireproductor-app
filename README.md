@@ -1,4 +1,4 @@
-MiniReproducto
+MiniReproductor
 ===================
 
 Aplicación de ionic que permite reproducir canciones con apoyo de un plugin.
